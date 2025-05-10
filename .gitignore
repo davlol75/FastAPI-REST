@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.vscode/
+*.sqlite3
+venv/
+FastAPI-env/
